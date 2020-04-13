@@ -6,6 +6,8 @@ A couple of sketches I crafted while playing with the library IRremote.h
 * It assumes there's a 38KHz IR receiver on pin 7
 
 Sketch of the IR receiver
+
+
 ```
       ^
    (  X  )
@@ -15,6 +17,8 @@ Sketch of the IR receiver
   |   |   |
   S  GND VCC
 ```
+
+
 * S   - Signal
 * GND - Ground
 * VCC - Voltage Continuous Current (5V)
