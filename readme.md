@@ -7,7 +7,10 @@ A couple of sketches I crafted while playing with the library IRremote.h
 
 Sketch of the IR receiver 1838
 
-![](https://c.76.my/Malaysia/ir-receiver-sensor-chq1838-arduino-raspberry-littlecraft-1607-23-littlecraft@1.jpg | width=100)
+
+<img src="https://c.76.my/Malaysia/ir-receiver-sensor-chq1838-arduino-raspberry-littlecraft-1607-23-littlecraft@1.jpg" width="250"/>
+
+
 
 ```
       ^
